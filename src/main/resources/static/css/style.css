@@ -1,0 +1,34 @@
+.main {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.left {
+    text-align: left;
+}
+
+.error {
+    color: red;
+}
+
+.bodered {
+    text-align: center;
+    border: #ad0000;
+    border-style: ridge;
+}
+
+body {
+    background-color: #efecec;
+}
+
+form {
+    text-align:center;
+}
